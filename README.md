@@ -1,4 +1,4 @@
-# Recursive Sphere
+# Recursively Subdivided Sphere
 
 <img src="https://user-images.githubusercontent.com/108101472/210532442-55d57c8e-ff3c-491e-b29d-ec1907389c54.jpg" width="400">
 
