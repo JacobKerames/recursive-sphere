@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/108101472/210532442-55d57c8e-ff3c-491e-b29d-ec1907389c54.jpg" width="400">
 
-This program generates a 3D recursive sphere using WebGL and displays it on an HTML canvas element in the browser. The user can interact with the sphere by increasing or decreasing the number of times the triangles of the sphere are subdivided, as well as resetting the sphere to its original state. The sphere can also be rotated in 3D space using the arrow keys on the keyboard.
+This program generates a 3D recursively subdivided sphere using WebGL and displays it on an HTML canvas element in the browser. The user can interact with the sphere by increasing or decreasing the number of times the triangles of the sphere are subdivided, as well as resetting the sphere to its original state. The sphere can also be rotated in 3D space using the arrow keys on the keyboard.
 
 To run this program, open the recursive-sphere.html file in a web browser. The program should run automatically.
 
