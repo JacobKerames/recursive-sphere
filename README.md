@@ -8,7 +8,7 @@ To run this program, open the recursive-sphere.html file in a web browser. The p
 
 ## Features
 
-  * Generates a 3D recursive sphere using WebGL.
+  * Generates a 3D recursively subdivided sphere using WebGL.
   * Displays the sphere on an HTML canvas element.
   * Allows the user to increase or decrease the number of times the triangles of the sphere are subdivided.
   * Provides a reset button to return the sphere to its original state.
